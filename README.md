@@ -49,7 +49,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/YWmiqFe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with **Kap**
+GIF created with **Imgur**
 
 ## Notes
 
